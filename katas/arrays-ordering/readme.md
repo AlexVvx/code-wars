@@ -17,6 +17,8 @@ arraysOrdering(["abc", "abcde", "c"]) ==> Unsorted
 arraysOrdering([1, "b", ["p"], 2]) ==> Constant
 ```
 
+See [tests in arrays-ordering_test.js](https://github.com/AlexVvx/code-wars/blob/master/katas/arrays-ordering/array-ordering_test.js)
+
 #####[Original Kata](https://www.codewars.com/kata/identify-the-arrays-ordering)
 
 Good luck
