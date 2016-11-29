@@ -15,7 +15,7 @@ makePalindrome('race') --> 'racecar'
 makePalindrome('leveled') --> 'deleveled'
 ```
 
-See [tests in make-palindrom_test.js](https://github.com/AlexVvx/code-wars/blob/master/katas/make-palindrom/make-palindrom_test.js)
+See [tests in make-palindrom_test.js](https://github.com/AlexVvx/code-wars/blob/master/katas/make-palindrome/make-palindrom_test.js)
 
 #####[Original Kata](https://www.codewars.com/kata/make-a-palindrome)
 
