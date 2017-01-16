@@ -1,3 +1,3 @@
-function calculateFlips(input) {
+function calculateFlips(lockMatrix, keyMatrix) {
     // YOUR CODE HEAR
 };
