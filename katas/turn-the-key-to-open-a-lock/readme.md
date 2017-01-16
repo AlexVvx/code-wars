@@ -1,7 +1,7 @@
 ####Description:
 
 This challenge is to understand suitable or not the key to the lock. If provided key suitable for provided lock scheme 
-you must calculate ... Smashing!! But at first you should undestand schemes of key and lock!
+you must calculate ... Smashing!! But at first you should understand schemes of key and lock!
 
 ####Pay attention on example:
 
