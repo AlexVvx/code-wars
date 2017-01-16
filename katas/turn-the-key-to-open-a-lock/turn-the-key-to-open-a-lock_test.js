@@ -1,7 +1,5 @@
 describe('calculateFlips', function() {
-
     it('should calculate number of flips correctly', function() {
-
         var lockMatrix =    [[0,0,0,0,0,0,0,0,0,0,0,0,0,0]
                              [0,0,0,0,0,0,0,0,1,0,0,0,0,0]
                              [0,0,0,1,1,0,0,1,1,0,0,1,0,0]
