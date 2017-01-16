@@ -39,7 +39,7 @@ Example of one flip with fourth from left part of key:
                  1
 ```
 
-Result of 'flips' for exmple lock and key matrix  --->> 3   (2 part, 7 part and 11 part)             
+Result of 'flips' for exmple lock and key matrix  --->> 3                   (flips: 2 part, 7 part and 11 part)             
 
 See [tests in turn-the-key-to-open-a-lock_test.js](https://github.com/AlexVvx/code-wars/blob/master/katas/turn-the-key-to-open-a-lock_test/turn-the-key-to-open-a-lock_test.js)
 
