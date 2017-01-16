@@ -1,3 +1,3 @@
-function countPositivesSumNegatives(input) {
-
+function calculateFlips(input) {
+    // YOUR CODE HEAR
 };
