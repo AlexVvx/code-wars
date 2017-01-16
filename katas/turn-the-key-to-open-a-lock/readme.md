@@ -23,7 +23,7 @@ you must calculate ... Smashing!! But at first you should understand schemes of 
 00000000000000
 ```
 
-KEY consist of n parts that divide horizontally to separate 'link' (horizontally lenght of each part 1 matrix cell lenght).
+KEY consists of n parts that divided vertically to separate 'link' (horizontally lenght of each part 1 matrix cell lenght).
 
 You can FLIP 180 degrees each part of key to achieve FULL compatibility with KEYHOLE!!!
 
