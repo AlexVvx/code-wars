@@ -5,6 +5,7 @@ you must calculate ... Smashing!! But at first you should understand schemes of 
 
 ####Pay attention on example:
 
+```js
 00000000000000
 00000000100000
 00011001100100
@@ -20,6 +21,7 @@ you must calculate ... Smashing!! But at first you should understand schemes of 
 00011111110100
 00001000100000
 00000000000000
+```
 
 KEY consist of n parts that divide horizontally to separate 'link' (horizontally lenght of each part 1 matrix cell lenght).
 
@@ -28,12 +30,14 @@ You can FLIP 180 degrees each part of key to achieve FULL compatibility with KEY
 And you must calculate minimum of 'flips' with the parts of key.
 
 Example of one flip with fourth from left part of key:
-   
+
+```js
    1
    1 
 1111111  -->  1111111  
     1            11
                  1
+```
 
 Result of 'flips' for exmple lock and key matrix  --->> 3   (2 part, 7 part and 11 part)             
 
