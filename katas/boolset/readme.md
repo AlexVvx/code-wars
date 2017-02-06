@@ -12,6 +12,6 @@ var array = ['C', true, 'R', false,'O', true, 'D', true, 'E', true, 'P', false];
 boolset(array); // ['C', 'O', 'D', 'E']
 ```
 
-See [tests in count-the-characters_test.js](https://github.com/AlexVvx/code-wars/blob/master/katas/boolset/boolset_test.js)
+See [boolset_test.js](https://github.com/AlexVvx/code-wars/blob/master/katas/boolset/boolset_test.js)
 
 Good luck!
