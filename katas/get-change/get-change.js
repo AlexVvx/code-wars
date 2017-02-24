@@ -1,0 +1,3 @@
+function getChange(cost, pay) {
+
+}
