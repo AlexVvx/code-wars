@@ -1,5 +1,5 @@
 # Task
-Implement function checkBrackets(str, bracketsConfig), that for given brackets sequence will return true if it is correct and false otherwise
+Implement function checkBrackets(str, bracketsConfig), that for given brackets sequence will return true if it is correct or false otherwise
 
 In the second param there is bracketsConfig - the array of pairs open-closed brackets. Each subarray includes only 2 elements - opening and closing bracket
 
