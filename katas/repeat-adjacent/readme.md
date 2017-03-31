@@ -1,11 +1,12 @@
-####Description:
+### Description:
 
 You are given a string s. Let's call its substring a group, if all letters in it are adjacent and the same(such as "aa","bbb","cccc"..).
 Let's call the substiring with 2 or more adjacent group a big group(such as "aabb","bbccc"...).
 
 Your task is to count the number of big groups in the given string.
 
-####Important
+### Important: 
+
 [input] string s
 
 A string of lowercase Latin letters.
@@ -13,7 +14,7 @@ A string of lowercase Latin letters.
 
 The number of big groups.
 
-####Example:
+### Example:
 For s = "ccccoodeffffiiighhhhhhhhhhttttttts", the result should be 3.
 
 ```js
