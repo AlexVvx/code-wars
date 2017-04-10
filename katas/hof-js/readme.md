@@ -31,4 +31,4 @@ See [tests in hof-js_test.js](https://www.codewars.com/kata/coding-meetup-number
 
 Good luck
 
-#####[Original Kata](https://www.codewars.com/kata/hof-js)
+##### [Original Kata](https://www.codewars.com/kata/hof-js)
