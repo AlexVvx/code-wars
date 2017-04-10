@@ -27,8 +27,8 @@ your function should return the following array:
 ```
 
 
-See [tests in hof-js_test.js](https://www.codewars.com/kata/coding-meetup-number-7-higher-order-functions-series-find-the-most-senior-developer)
+See [tests in hof-js_test.js](https://github.com/AlexVvx/code-wars/blob/master/katas/hof-js/hof-js_test.js)
 
 Good luck
 
-##### [Original Kata](https://www.codewars.com/kata/hof-js)
+##### [Original Kata](https://www.codewars.com/kata/coding-meetup-number-7-higher-order-functions-series-find-the-most-senior-developer)
